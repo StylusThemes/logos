@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 135.46666 135.46667"
+   width="512"
+   height="512"
+   version="1.1"
+   id="Logo"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     id="namedview51"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="0.06297"
+     inkscape:cy="306.67161"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="S"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="false" />
+  <metadata
+     id="metadata4579">image/svg+xml<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <defs
+     id="defs18">
+    <linearGradient
+       id="svg_3"
+       x1="0.5"
+       y1="1"
+       x2="0.5"
+       y2="0">
+      <stop
+         stop-color="#5599ff"
+         offset="0"
+         id="stop3" />
+      <stop
+         stop-color="#ff5555"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="svg_4"
+       x1="0.5"
+       y1="1"
+       x2="0.5"
+       y2="0">
+      <stop
+         stop-color="#5599ff"
+         offset="0"
+         id="stop8" />
+      <stop
+         stop-color="#ff5555"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="svg_5"
+       y1="1"
+       x1="0.5"
+       x2="0.5">
+      <stop
+         stop-color="#5599ff"
+         offset="0"
+         id="stop13" />
+      <stop
+         stop-color="#ff5555"
+         offset="1"
+         id="stop15" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="S"
+     inkscape:label="S"
+     style="display:inline">
+    <g
+       style="display:inline"
+       display="inline"
+       id="g25">
+      <title
+         id="title20">Layer S</title>
+      <rect
+         rx="12.45023"
+         y="-0.01695"
+         x="10.20045"
+         height="135.51404"
+         width="114.25217"
+         id="rect4561"
+         style="fill:#444444;fill-opacity:0.23528999;stroke-width:0.3071" />
+      <g
+         id="g4563"
+         transform="matrix(1.1710748,0,0,1.1710748,-11.485859,-38.758728)"
+         stroke-miterlimit="4"
+         style="fill:#444444;stroke:#999999;stroke-width:1.16445994;stroke-linejoin:round;stroke-miterlimit:4">
+        <path
+           d="m 52.56707,104.75132 q 0.68,4.906 2.672,7.334 3.643,4.42 12.483,4.42 5.294,0 8.597,-1.163 6.265,-2.235 6.265,-8.306 0,-3.545 -3.108,-5.49 -3.11,-1.892 -9.763,-3.35 l -7.58,-1.7 q -11.17,-2.525 -15.445,-5.49 -7.237,-4.952 -7.237,-15.492 0,-9.617 6.993,-15.98 6.996,-6.363 20.547,-6.363 11.316,0 19.282,6.023 8.013,5.974 8.402,17.39 h -14.373 q -0.39,-6.46 -5.635,-9.18 -3.497,-1.798 -8.694,-1.798 -5.78,0 -9.23,2.33 -3.45,2.33 -3.45,6.51 0,3.836 3.4,5.73 2.187,1.263 9.327,2.963 l 12.337,2.963 q 8.11,1.943 12.24,5.197 6.41,5.05 6.41,14.62 0,9.81 -7.527,16.32 -7.48,6.46 -21.177,6.46 -13.988,0 -22.002,-6.363 -8.015,-6.412 -8.015,-17.583 h 14.28 z m 14.523,-51.68 z"
+           id="path4565"
+           stroke-miterlimit="4"
+           inkscape:connector-curvature="0"
+           style="fill:url(#svg_3);stroke-width:1.16445994;stroke-miterlimit:4" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Bottom Part of bracket"
+     inkscape:label="Bottom Part of bracket"
+     style="display:inline">
+    <g
+       style="display:inline"
+       display="inline"
+       id="g47">
+      <title
+         id="title44">Layer Bottom Part of bracket</title>
+      <rect
+         stroke-linejoin="null"
+         stroke-linecap="null"
+         x="30.906773"
+         y="126.00834"
+         width="73.442177"
+         height="9.4700003"
+         id="svg_2"
+         style="fill:#5599ff;stroke-width:1.16445994;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Top Part of bracket"
+     inkscape:label="Top Part of bracket"
+     style="display:inline">
+    <g
+       style="display:inline"
+       display="inline"
+       id="g42">
+      <title
+         id="title39">Layer Top Part of bracket</title>
+      <rect
+         stroke-linejoin="null"
+         stroke-linecap="null"
+         x="30.906773"
+         y="0.0083379997"
+         width="73.442177"
+         height="9.4700003"
+         id="svg_6"
+         style="fill:#ff5555;stroke-width:1.16445994;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Right Bracket"
+     inkscape:label="Right Bracket"
+     style="display:inline">
+    <g
+       style="display:inline"
+       display="inline"
+       id="g31">
+      <title
+         id="title27">Layer Right Bracket</title>
+      <g
+         id="g4571"
+         transform="matrix(1.6112997,0,0,1.6112997,-82.982706,-139.41755)"
+         style="fill:#ff5555">
+        <path
+           d="m 129.8058,161.48787 q 0,9.122 -7.135,9.122 h -6.683 v -5.87 h 3.432 q 2.167,0 2.98,-1.175 0.903,-1.174 0.903,-3.973 v -21.946 q 0,-3.793 1.445,-6.14 1.535,-2.44 3.612,-2.8 v -0.543 q -2.077,-0.45 -3.612,-2.528 -1.445,-2.078 -1.445,-6.05 v -22.037 q 0,-2.89 -0.903,-3.974 -0.813,-1.174 -2.89,-1.174 h -3.522 v -5.87 h 6.683 q 3.793,0 5.42,2.53 1.714,2.437 1.714,6.682 v 22.308 q 0,3.972 1.444,5.778 1.536,1.807 4.335,1.807 v 5.87 q -2.8,0 -4.336,1.716 -1.445,1.717 -1.445,6.323 v 21.945 z"
+           id="path4573"
+           inkscape:connector-curvature="0"
+           style="fill:url(#svg_5);stroke-width:1.16445994" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Left Bracket"
+     inkscape:label="Left Bracket"
+     style="display:inline">
+    <g
+       style="display:inline"
+       display="inline"
+       id="g37">
+      <title
+         id="title33">Layer Left Bracket</title>
+      <g
+         id="g4567"
+         transform="matrix(1.6113069,0,0,1.6113069,0.26458333,-139.4189)"
+         style="fill:#5599ff">
+        <path
+           d="m 5.6158,139.54332 q 0,-4.606 -1.535,-6.322 -1.445,-1.715 -4.245,-1.715 v -5.87 q 2.8,0 4.245,-1.807 1.535,-1.806 1.535,-5.78 v -22.306 q 0,-4.245 1.626,-6.683 1.716,-2.53 5.51,-2.53 h 6.682 v 5.87 h -3.522 q -2.077,0 -2.98,1.174 -0.813,1.084 -0.813,3.974 v 22.036 q 0,3.974 -1.536,6.05 -1.445,2.078 -3.522,2.53 v 0.54 q 2.077,0.362 3.522,2.8 1.536,2.35 1.536,6.142 v 21.946 q 0,2.8 0.812,3.973 0.904,1.174 3.07,1.174 h 3.435 v 5.87 h -6.683 q -7.135,0 -7.135,-9.122 v -21.945 z"
+           id="path4569"
+           inkscape:connector-curvature="0"
+           style="fill:url(#svg_4);stroke-width:1.16445994" />
+      </g>
+    </g>
+  </g>
+</svg>
